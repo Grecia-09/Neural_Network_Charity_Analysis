@@ -1,7 +1,7 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview
-The purpose of this project is to design a deep-learning neural networks using your knowledge of TensorFlow to create a binary classification model that can predict if an Alphabet Soup–funded organization will be successful based on the features in the dataset.  
+The purpose of this project is to design a deep-learning neural networks using TensorFlow to create a binary classification model that can predict if an Alphabet Soup–funded organization will be successful based on the features in the dataset.  
 
 ## Results
 
