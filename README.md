@@ -53,5 +53,6 @@ Lastly, I changed the activation function of hidden layers, tried using the "tan
 
 <img width="474" alt="Screen Shot 2021-02-14 at 2 23 15 PM" src="https://user-images.githubusercontent.com/70611325/107890892-3e281800-6ed0-11eb-935f-b3915426ea2b.png">
 
-
 ## Summary
+
+I was unable to create a model that could perform at 75% accuracy. This is probably because I got rid of too many columns, or didn't drop enough noisy columns. Another option is that I didn't use the correct activation function, or I didn't have the right amount of layers and neurons. These were the main areas I continued to change with little to no improvement.
